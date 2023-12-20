@@ -1,0 +1,4 @@
+hello good morning 
+today is wednesday 
+we are doing git lab
+
