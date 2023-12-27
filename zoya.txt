@@ -1,4 +1,3 @@
-hello good morning 
-today is wednesday 
-we are doing git lab
+i am not master branch
+i am b2 branch
 
