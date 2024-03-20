@@ -1,2 +1,2 @@
-dd kkline 1
+wwdd kkline 1
 line 2
